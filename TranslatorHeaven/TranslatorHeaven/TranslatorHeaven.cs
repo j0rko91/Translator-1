@@ -12,6 +12,10 @@ namespace TranslatorHeaven
         {
             Console.WriteLine("dsadasd");
             Console.WriteLine("Digame lvl");
+
+
+            Console.WriteLine("dsaidjasidjsa");
+            Console.ReadLine();
         }
     }
 }

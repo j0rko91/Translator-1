@@ -1,1 +1,2 @@
 C:\Users\Adm1n\Desktop\Translator\TranslatorHeaven\TranslatorHeaven\bin\Debug\TranslatorHeaven.exe.config
+C:\Users\User\Desktop\Trans\Translator.git\trunk\TranslatorHeaven\TranslatorHeaven\bin\Debug\TranslatorHeaven.exe.config
