@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorHeaven", "TranslatorHeaven\TranslatorHeaven.csproj", "{D0AA774C-31D2-411B-A36C-CA19990AF66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0AA774C-31D2-411B-A36C-CA19990AF66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AA774C-31D2-411B-A36C-CA19990AF66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AA774C-31D2-411B-A36C-CA19990AF66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AA774C-31D2-411B-A36C-CA19990AF66D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
