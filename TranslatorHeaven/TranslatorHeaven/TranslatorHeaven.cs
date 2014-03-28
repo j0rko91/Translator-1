@@ -10,6 +10,7 @@ namespace TranslatorHeaven
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dsadasd");
         }
     }
 }
