@@ -1,2 +1,7 @@
 C:\Users\Adm1n\Desktop\Translator\TranslatorHeaven\TranslatorHeaven\bin\Debug\TranslatorHeaven.exe.config
 C:\Users\User\Desktop\Trans\Translator.git\trunk\TranslatorHeaven\TranslatorHeaven\bin\Debug\TranslatorHeaven.exe.config
+C:\Users\Adm1n\Desktop\Translator\TranslatorHeaven\TranslatorHeaven\obj\Debug\TranslatorHeaven.csprojResolveAssemblyReference.cache
+C:\Users\Adm1n\Desktop\Translator\TranslatorHeaven\TranslatorHeaven\bin\Debug\TranslatorHeaven.exe
+C:\Users\Adm1n\Desktop\Translator\TranslatorHeaven\TranslatorHeaven\bin\Debug\TranslatorHeaven.pdb
+C:\Users\Adm1n\Desktop\Translator\TranslatorHeaven\TranslatorHeaven\obj\Debug\TranslatorHeaven.exe
+C:\Users\Adm1n\Desktop\Translator\TranslatorHeaven\TranslatorHeaven\obj\Debug\TranslatorHeaven.pdb
